@@ -17,3 +17,6 @@
 |SLUS-00860| Tony Hawk's Pro Skater | US | Playable | 2022-1-25 | Graphical glitches occur throughout menus (Main Menu, Pause, etc.) |
 |SLPM-86272| Rakugaki Showtime | JP | Playable | 2022-5-17 | Graphical glitches in menus and gameplay. |
 |SCES-02873| Vib-Ribbon | EU | Menu | 2022-06-22| When pressing Game or How To Play, The loading screen pops up and it appears to be loading. Then it freezes. The only option that is working is Language.|
+|SLUS_00170| Resident Evil | US | Unplayable | 2023-04-11 | When loading the file, it gets past the Sony and PlayStation logo, then gets stuck at a black screen with "clicking" noises
+|SLUS_00421| Resident Evil 2 | US | Unplayable | 2023-04-11 | Plays both video and audio until it gets past the CAPCOM logo, then it only plays audio
+|SLUS_00923| Resident Evil 3 | US | Unplayable | 2023-04-11 | Plays both video and audio until it gets past the CAPCOM logo, then it only plays audio
